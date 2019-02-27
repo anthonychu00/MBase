@@ -4,7 +4,7 @@
 
 <br><br>
 <link rel="stylesheet" type="text/css" href="styles.css" media="all" />
-    <link rel="stylesheet" type="text/css" href="demo.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="d.css" media="all" />
     <!-- jQuery -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <!-- FlexSlider -->
