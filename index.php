@@ -1,6 +1,6 @@
-<?php include 'includes/connection.php';?>
-<?php include 'includes/header.php';?>
-<?php include 'includes/navbar.php';?>
+<?php include 'h/connection.php';?>
+<?php include 'h/header.php';?>
+<?php include 'h/navbar.php';?>
 
 <br><br>
 <link rel="stylesheet" type="text/css" href="styles.css" media="all" />
